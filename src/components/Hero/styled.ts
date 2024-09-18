@@ -41,4 +41,3 @@ const HeroTitle = styled.h1`
 `;
 
 export { Hero, HeroTitle };
-
